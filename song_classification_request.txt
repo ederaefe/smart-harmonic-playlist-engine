@@ -1,0 +1,352 @@
+================================================================================
+CATALOG OF SONGS TO CLASSIFY (TOTAL: 284 TRACKS)
+================================================================================
+
+FORMAT: [Track No.] | [Song Title] | [Artist] | [Original Filename]
+--------------------------------------------------------------------------------
+001 | Deeper | Sondae | 001 - Deeper - Sondae.mp3
+002 | Speak to My Heart | Donnie Mcclurkin | 002 - Speak to My Heart - Donnie Mcclurkin.mp3
+003 | No Longer Bound (I'm Free) | Maverick City Music, Chandler Moore | 003 - No Longer Bound (I'm Free) - Maverick City Music, Chandler Moore.mp3
+004 | Lord I Need You | Lofi Christian Nation | 004 - Lord I Need You - Lofi Christian Nation.mp3
+005 | The Heart of Worship | Matt Redman | 005 - The Heart of Worship - Matt Redman.mp3
+006 | Hello God | Dolly Parton | 006 - Hello God - Dolly Parton.mp3
+007 | No Longer Bound | Forrest Frank, Hulvey | 007 - No Longer Bound - Forrest Frank, Hulvey.mp3
+008 | Lord I Give You My Heart | Michael W. Smith | 008 - Lord I Give You My Heart - Michael W. Smith.mp3
+009 | Solitude | Lightning Traveler | 009 - Solitude - Lightning Traveler.mp3
+010 | Iyin Ye (Acoustic) | Paul Tomisin | 010 - Iyin Ye (Acoustic) - Paul Tomisin.mp3
+011 | You Are Good | Greatman Takit, Nathaniel Bassey | 011 - You Are Good - Greatman Takit, Nathaniel Bassey.mp3
+012 | Nocturne in E-flat Major, Op. 9 No. 2 (Rain & Piano) | Frédéric Chopin | 012 - Nocturne in E-flat Major, Op. 9 No. 2 (Rain & Piano) - Frédéric Chopin.mp3
+013 | Glorious | Sondae | 013 - Glorious - Sondae.mp3
+014 | Make You Feel My Love | Anendlessocean | 014 - Make You Feel My Love - Anendlessocean.mp3
+015 | Open Doors | Ada Ehi | 015 - Open Doors - Ada Ehi.mp3
+016 | The Train Theme Song | Lawrence Oyor | 016 - The Train Theme Song - Lawrence Oyor.mp3
+017 | Trust in God | Elevation Worship | 017 - Trust in God - Elevation Worship.mp3
+018 | Peter | Sondae | 018 - Peter - Sondae.mp3
+019 | Judgement Day Divineflaver.com | Resonance | 019 - Judgement Day Divineflaver.com - Resonance.mp3
+020 | Home | 121selah | 020 - Home - 121selah.mp3
+021 | I Will Love | Cece Winans | 021 - I Will Love - Cece Winans.mp3
+022 | Broken (Live) | Kaestrings | 022 - Broken (Live) - Kaestrings.mp3
+023 | Jireh (My Provider) | Limoblaze, Lecrae, Happi | 023 - Jireh (My Provider) - Limoblaze, Lecrae, Happi.mp3
+024 | Love (Me Na Yi Daka so Ni Haka) | Kaestrings | 024 - Love (Me Na Yi Daka so Ni Haka) - Kaestrings.mp3
+025 | Yours | Sondae, SIV | 025 - Yours - Sondae, SIV.mp3
+026 | Bo Ta Joor (Feat. Pastor Iren Emmanuel) | Prinx Emmanuel | 026 - Bo Ta Joor (Feat. Pastor Iren Emmanuel) - Prinx Emmanuel.mp3
+027 | Glimpse of Heaven | Sondae | 027 - Glimpse of Heaven - Sondae.mp3
+028 | Psalm 103 1-22 (10,000 Reasons) | Matt Redman | 028 - Psalm 103 1-22 (10,000 Reasons) - Matt Redman.mp3
+029 | Desire | Kaestrings | 029 - Desire - Kaestrings.mp3
+030 | Iwo Loye | Minister Mike | 030 - Iwo Loye - Minister Mike.mp3
+031 | Angels | Faith Owolabi | 031 - Angels - Faith Owolabi.mp3
+032 | Who Is Like You | Dunsin Oyekan | 032 - Who Is Like You - Dunsin Oyekan.mp3
+033 | Your Love Ii Ft. Soweto Gospel Choir | Moses Bliss | 033 - Your Love Ii Ft. Soweto Gospel Choir - Moses Bliss.mp3
+034 | The Jesus Generation | Forrest Frank | 034 - The Jesus Generation - Forrest Frank.mp3
+035 | Brighter Day | Sondae, Moflo, Limoblaze | 035 - Brighter Day - Sondae, Moflo, Limoblaze.mp3
+036 | Order My Steps in Your Word | Gmwa Women of Worship | 036 - Order My Steps in Your Word - Gmwa Women of Worship.mp3
+037 | Worthy | Elevation Worship | 037 - Worthy - Elevation Worship.mp3
+038 | Desert Storms | Sondae | 038 - Desert Storms - Sondae.mp3
+039 | Heaven Ain't Like What They Said | Jimmy Clifton | 039 - Heaven Ain't Like What They Said - Jimmy Clifton.mp3
+040 | Something New (Feat. Sondae) | Crystal Mills | 040 - Something New (Feat. Sondae) - Crystal Mills.mp3
+041 | Time for Shifts | Godswill Oyor | 041 - Time for Shifts - Godswill Oyor.mp3
+042 | Revolution (Remix) | Jaymikee | 042 - Revolution (Remix) - Jaymikee.mp3
+043 | Min. Theophilus Sunday Gospellover.com | Ko Mi Kunede Wé Ojo Mi | 043 - Min. Theophilus Sunday Gospellover.com - Ko Mi Kunede Wé Ojo Mi.mp3
+044 | Blessings | Sondae | 044 - Blessings - Sondae.mp3
+045 | Grace Echo | Soul of Afrika | 045 - Grace Echo - Soul of Afrika.mp3
+046 | Bigger - Odogwu | Prinx Emmanuel | 046 - Bigger - Odogwu - Prinx Emmanuel.mp3
+047 | D2d | Anendlessocean | 047 - D2d - Anendlessocean.mp3
+048 | Eden | Anendlessocean | 048 - Eden - Anendlessocean.mp3
+049 | Elijah Level (With Limoblaze) | Gaise Baba, Limoblaze | 049 - Elijah Level (With Limoblaze) - Gaise Baba, Limoblaze.mp3
+050 | My Promised Land | Josiah Queen | 050 - My Promised Land - Josiah Queen.mp3
+051 | Inferno | Greatman Takit | 051 - Inferno - Greatman Takit.mp3
+052 | God's Got My Back | Forrest Frank | 052 - God's Got My Back - Forrest Frank.mp3
+053 | Confidential | Anendlessocean | 053 - Confidential - Anendlessocean.mp3
+054 | Elee | Dr. Pastor Paul Eneche | 054 - Elee - Dr. Pastor Paul Eneche.mp3
+055 | Dusty Bibles | Josiah Queen | 055 - Dusty Bibles - Josiah Queen.mp3
+056 | Nothing God Can't Do | Mike Malagies | 056 - Nothing God Can't Do - Mike Malagies.mp3
+057 | Elijah Level | Gaise Baba | 057 - Elijah Level - Gaise Baba.mp3
+058 | I'd Be Lying | One House | 058 - I'd Be Lying - One House.mp3
+059 | Correct | Greatman Takit | 059 - Correct - Greatman Takit.mp3
+060 | Umbrella | Moses Bliss, Festizie, Chizie, S.o.n Music, Neeja, the Membrane, Doris Joseph, Ajay Asika, Godfrey Gad | 060 - Umbrella - Moses Bliss, Festizie, Chizie, S.o.n Music, Neeja, the Membrane, Doris Joseph, Ajay Asika, Godfrey Gad.mp3
+061 | Eternal | Greatman Takit | 061 - Eternal - Greatman Takit.mp3
+062 | Only What God Can Give | Sondae | 062 - Only What God Can Give - Sondae.mp3
+063 | P & A | Anendlessocean | 063 - P & A - Anendlessocean.mp3
+064 | Perfect Peace | Sondae | 064 - Perfect Peace - Sondae.mp3
+065 | Leave Am | Greatman Takit | 065 - Leave Am - Greatman Takit.mp3
+066 | E Dey Flow | Moses Bliss, Neeja, Spotlite Nation, Ajay Asika, Festizie, S.o.n Music, Chizie | 066 - E Dey Flow - Moses Bliss, Neeja, Spotlite Nation, Ajay Asika, Festizie, S.o.n Music, Chizie.mp3
+067 | Let Me In | 121selah | 067 - Let Me In - 121selah.mp3
+068 | Energy | Greatman Takit | 068 - Energy - Greatman Takit.mp3
+069 | Abba Riddim | Outgun Onkar | 069 - Abba Riddim - Outgun Onkar.mp3
+070 | Kill What's Left of Me | Theophilus Sunday | 070 - Kill What's Left of Me - Theophilus Sunday.mp3
+071 | Have I Not Said, Be Bold | Gird Music | 071 - Have I Not Said, Be Bold - Gird Music.mp3
+072 | Not Alone | Sondae | 072 - Not Alone - Sondae.mp3
+073 | Have Mercy on Me | Sondae, Moflo | 073 - Have Mercy on Me - Sondae, Moflo.mp3
+074 | Finidi George (If I Hear Peem) | Greatman Takit, Imrhan | 074 - Finidi George (If I Hear Peem) - Greatman Takit, Imrhan.mp3
+075 | Cornerstone | Sondae | 075 - Cornerstone - Sondae.mp3
+076 | I'm in Love | Lawrence Oyor | 076 - I'm in Love - Lawrence Oyor.mp3
+077 | Sori | Anendlessocean | 077 - Sori - Anendlessocean.mp3
+078 | Another Measure Oh Holy Ghost Another 1000 Soundwela | Minister Myra | 078 - Another Measure Oh Holy Ghost Another 1000 Soundwela - Minister Myra.mp3
+079 | Lalalove | Claudia Isaki | 079 - Lalalove - Claudia Isaki.mp3
+080 | King of Glory | Michael W. Smith | 080 - King of Glory - Michael W. Smith.mp3
+081 | Your Love | Sondae | 081 - Your Love - Sondae.mp3
+082 | Reasons | Sondae | 082 - Reasons - Sondae.mp3
+083 | Open My Eyes | Sondae | 083 - Open My Eyes - Sondae.mp3
+084 | In the Name of Jesus | Sondae | 084 - In the Name of Jesus - Sondae.mp3
+085 | Wade in the Water - Live | The Spirituals | 085 - Wade in the Water - Live - The Spirituals.mp3
+086 | In Your Way | Alex Jean | 086 - In Your Way - Alex Jean.mp3
+087 | Love Practitioner | Anendlessocean | 087 - Love Practitioner - Anendlessocean.mp3
+088 | Celebration | Greatman Takit, Gospelondebeatz | 088 - Celebration - Greatman Takit, Gospelondebeatz.mp3
+089 | Songs of Sons (I Am Not Alone) | Asher Ruona | 089 - Songs of Sons (I Am Not Alone) - Asher Ruona.mp3
+090 | Adullam | Pius Adeniji | 090 - Adullam - Pius Adeniji.mp3
+091 | Fly Away | Sondae | 091 - Fly Away - Sondae.mp3
+092 | Praise Your Name | King Dareal, Festizie, Drakare | 092 - Praise Your Name - King Dareal, Festizie, Drakare.mp3
+093 | Baba | Ryan Ofei, Calledout Music, Annatoria | 093 - Baba - Ryan Ofei, Calledout Music, Annatoria.mp3
+094 | If You Believe | Strive to Be, Patch Crowe | 094 - If You Believe - Strive to Be, Patch Crowe.mp3
+095 | Cece Winans - Goodness of God (Afro Soul Cover) | LUME | 095 - Cece Winans - Goodness of God (Afro Soul Cover) - LUME.mp3
+096 | Anointed | Pastor Emmanuel Iren, Godswill Oyor | 096 - Anointed - Pastor Emmanuel Iren, Godswill Oyor.mp3
+097 | Satisfied in You (Psalm 42) | The Sing Team | 097 - Satisfied in You (Psalm 42) - The Sing Team.mp3
+098 | Nazarene | Anendlessocean | 098 - Nazarene - Anendlessocean.mp3
+099 | Chlorine | Hiraoka Kotaro | 099 - Chlorine - Hiraoka Kotaro.mp3
+100 | Holy Father | Limoblaze | 100 - Holy Father - Limoblaze.mp3
+101 | No Turning Back Ii (Feat. Lawrence Oyor) | Gaise Baba | 101 - No Turning Back Ii (Feat. Lawrence Oyor) - Gaise Baba.mp3
+102 | Time for Shift | Godswill Oyor, Dr Paul Enenche, Greatman Takit | 102 - Time for Shift - Godswill Oyor, Dr Paul Enenche, Greatman Takit.mp3
+103 | Wys | Greatman Takit | 103 - Wys - Greatman Takit.mp3
+104 | ADML | Greatman Takit | 104 - ADML - Greatman Takit.mp3
+105 | Iba (Feat. Dunsin Oyekan & Dasola Akinbule) | Nathaniel Bassey | 105 - Iba (Feat. Dunsin Oyekan & Dasola Akinbule) - Nathaniel Bassey.mp3
+106 | You Are Life | Hillsong Worship | 106 - You Are Life - Hillsong Worship.mp3
+107 | Flowers | Samantha Ebert | 107 - Flowers - Samantha Ebert.mp3
+108 | Alone | Anendlessocean | 108 - Alone - Anendlessocean.mp3
+109 | UP! | Forrest Frank, Connor Price | 109 - UP! - Forrest Frank, Connor Price.mp3
+110 | Softly | Sondae | 110 - Softly - Sondae.mp3
+111 | Stand Up | Sondae | 111 - Stand Up - Sondae.mp3
+112 | Favour | Lawrence Oyor | 112 - Favour - Lawrence Oyor.mp3
+113 | Jesus Culture (Feat. Marie Elizabeth) | What a Beautiful Name | 113 - Jesus Culture (Feat. Marie Elizabeth) - What a Beautiful Name.mp3
+114 | OKAY! | Forrest Frank | 114 - OKAY! - Forrest Frank.mp3
+115 | Holy Spirit | Greatman Takit | 115 - Holy Spirit - Greatman Takit.mp3
+116 | Victory | Greatman Takit | 116 - Victory - Greatman Takit.mp3
+117 | Mercy | Greatman Takit | 117 - Mercy - Greatman Takit.mp3
+118 | Waymaker ft @brysongraymusic @hannahbarrmusic | Tyson James | 118 - Waymaker ft @brysongraymusic @hannahbarrmusic - Tyson James.mp3
+119 | Heaven on This Earth | Forrest Frank, Torey D'shaun | 119 - Heaven on This Earth - Forrest Frank, Torey D'shaun.mp3
+120 | Look at God Naijaslide.com.ng | Saint Finnikin Naijaslide.com.ng | 120 - Look at God Naijaslide.com.ng - Saint Finnikin Naijaslide.com.ng.mp3
+121 | I Need You More | Josiah Queen | 121 - I Need You More - Josiah Queen.mp3
+122 | Your Way's Better | Forrest Frank | 122 - Your Way's Better - Forrest Frank.mp3
+123 | Daddy Wey Dey Pamper [gbedu Version] | Moses Bliss | 123 - Daddy Wey Dey Pamper [gbedu Version] - Moses Bliss.mp3
+124 | Look What You've Done (Rap Refix) | Greatman Takit | 124 - Look What You've Done (Rap Refix) - Greatman Takit.mp3
+125 | Breathe | Michael W. Smith | 125 - Breathe - Michael W. Smith.mp3
+126 | Be Magnified | Don Moen | 126 - Be Magnified - Don Moen.mp3
+127 | Only Yeshua | David Dam | 127 - Only Yeshua - David Dam.mp3
+128 | Jesus, sometimes i.. || CeeNaija.com | Sondae | 128 - Sondae_-_Jesus_sometimes_i_CeeNaija.com_.mp3
+129 | Revival | Anendlessocean | 129 - Revival - Anendlessocean.mp3
+130 | Kumama Papa - Drill Remix | Odyssybeatz | 130 - Kumama Papa - Drill Remix - Odyssybeatz.mp3
+131 | You Said | Sondae | 131 - You Said - Sondae.mp3
+132 | Jesus I Need You | Hillsong Worship | 132 - Jesus I Need You - Hillsong Worship.mp3
+133 | Crystal's Cry | Sondae | 133 - Crystal's Cry - Sondae.mp3
+134 | Holy Essence | Sondae | 134 - Holy Essence - Sondae.mp3
+135 | Jesus, Sometimes I | Sondae | 135 - Jesus, Sometimes I - Sondae.mp3
+136 | The Man Jesus Christ | Jimmy Clifton | 136 - The Man Jesus Christ - Jimmy Clifton.mp3
+137 | Tinbake | Limoblaze, Greatman Takit | 137 - Tinbake - Limoblaze, Greatman Takit.mp3
+138 | Save Me From Myself | Michael W. Smith | 138 - Save Me From Myself - Michael W. Smith.mp3
+139 | Only God | Hillari, Ryan Ofei | 139 - Only God - Hillari, Ryan Ofei.mp3
+140 | In Your Midst | Allie Paige | 140 - In Your Midst - Allie Paige.mp3
+141 | We Still Believe (Hly Forever) (Feat. One Church Music) | Kb | 141 - We Still Believe (Hly Forever) (Feat. One Church Music) - Kb.mp3
+142 | God Did | Rua Young | 142 - God Did - Rua Young.mp3
+143 | This I Believe (The Creed) | Hillsong Worship | 143 - This I Believe (The Creed) - Hillsong Worship.mp3
+144 | Guide Me (Use Me) | Josiah Queen | 144 - Guide Me (Use Me) - Josiah Queen.mp3
+145 | Love Like That | Hulvey, Torey D'shaun, Alex Jean | 145 - Love Like That - Hulvey, Torey D'shaun, Alex Jean.mp3
+146 | We Will Be Many | Sound of Salem, Lawrence Oyor, Moses Akoh | 146 - We Will Be Many - Sound of Salem, Lawrence Oyor, Moses Akoh.mp3
+147 | Baruch Hashem Adonai | Dunsin Oyekan Feat. Theophilus Sunday | 147 - Baruch Hashem Adonai - Dunsin Oyekan Feat. Theophilus Sunday.mp3
+148 | Idea 22 | Gibran Alcocer | 148 - Idea 22 - Gibran Alcocer.mp3
+149 | We Bow Down | Victoria Orenze | 149 - We Bow Down - Victoria Orenze.mp3
+150 | Fragrance (Feat. Ggtq All Stars) | Esther Oji | 150 - Fragrance (Feat. Ggtq All Stars) - Esther Oji.mp3
+151 | Juba | Anendlessocean | 151 - Juba - Anendlessocean.mp3
+152 | Chinwe Ike | Resonance | 152 - Chinwe Ike - Resonance.mp3
+153 | He's Here (Ga Shi Nan) | Kaestrings | 153 - He's Here (Ga Shi Nan) - Kaestrings.mp3
+154 | El | Anendlessocean | 154 - El - Anendlessocean.mp3
+155 | Ekele (Thank You) | Holy Drill | 155 - Ekele (Thank You) - Holy Drill.mp3
+156 | Good Day | Rotimikeys | 156 - Good Day - Rotimikeys.mp3
+157 | Like a Tree (Psalm 1) | Josiah Queen | 157 - Like a Tree (Psalm 1) - Josiah Queen.mp3
+158 | L.n.b (Life Not Borrowed) | Anendlessocean | 158 - L.n.b (Life Not Borrowed) - Anendlessocean.mp3
+159 | At the Cross | Cece Winans | 159 - At the Cross - Cece Winans.mp3
+160 | Lord I Wanna Know Ya | Sondae | 160 - Lord I Wanna Know Ya - Sondae.mp3
+161 | No Lele | Greatman Takit | 161 - No Lele - Greatman Takit.mp3
+162 | The Prodigal | Josiah Queen | 162 - The Prodigal - Josiah Queen.mp3
+163 | Rahama (Live) | Kaestrings | 163 - Rahama (Live) - Kaestrings.mp3
+164 | Help Us Respond to Your Summon | Theophilus Sunday | 164 - Help Us Respond to Your Summon - Theophilus Sunday.mp3
+165 | Take Me Home | Josiah Queen | 165 - Take Me Home - Josiah Queen.mp3
+166 | Baba Saanu Val9ja.com | Greatman Takit | 166 - Baba Saanu Val9ja.com - Greatman Takit.mp3
+167 | Baba Saanu | Greatman Takit | 167 - Baba Saanu - Greatman Takit.mp3
+168 | Connect | Sound of Salem, Pst. Oche Ogebe | 168 - Connect - Sound of Salem, Pst. Oche Ogebe.mp3
+169 | Standing - Remix | Jaymikee, Greatman Takit | 169 - Standing - Remix - Jaymikee, Greatman Takit.mp3
+170 | Emmanuel | Sound of Salem | 170 - Emmanuel - Sound of Salem.mp3
+171 | Volume of the Book | Moses Akoh | 171 - Volume of the Book - Moses Akoh.mp3
+172 | Jesus Is Alive (Official Audio + Lyrics in Description) | Forrest Frank & Aftrthght | 172 - Jesus Is Alive (Official Audio + Lyrics in Description) - Forrest Frank & Aftrthght.mp3
+173 | Lemonade | Forrest Frank | 173 - Lemonade - Forrest Frank.mp3
+174 | Because Jesus Christ Is Alive | The Sing Team | 174 - Because Jesus Christ Is Alive - The Sing Team.mp3
+175 | Relationship | Holy Drill, Pius Adeniji | 175 - Relationship - Holy Drill, Pius Adeniji.mp3
+176 | Two Wooden Beams | Josiah Queen | 176 - Two Wooden Beams - Josiah Queen.mp3
+177 | Tare (Live) | Kaestrings | 177 - Tare (Live) - Kaestrings.mp3
+178 | Nasara - Live | Kaestrings | 178 - Nasara - Live - Kaestrings.mp3
+179 | Haske (Choral) | Kaestrings | 179 - Haske (Choral) - Kaestrings.mp3
+180 | Our God | Phil Wickham | 180 - Our God - Phil Wickham.mp3
+181 | Kingdom Mindset (Voice Note) | Spiritual Exhortation | 181 - Kingdom Mindset (Voice Note) - Spiritual Exhortation.mp3
+182 | Ran Mi Lowo (Help Me) | Minister Mike | 182 - Ran Mi Lowo (Help Me) - Minister Mike.mp3
+183 | Ji | Anendlessocean | 183 - Ji - Anendlessocean.mp3
+184 | Good Day | Forrest Frank | 184 - Good Day - Forrest Frank.mp3
+185 | In the Cool of the Day | Sondae, Moflo | 185 - In the Cool of the Day - Sondae, Moflo.mp3
+186 | Bire | Anendlessocean | 186 - Bire - Anendlessocean.mp3
+187 | Jesus Oh | M I L O, Levixone, Gaise Baba | 187 - Jesus Oh - M I L O, Levixone, Gaise Baba.mp3
+188 | Let It Show That I Met With You | Kaestrings | 188 - Let It Show That I Met With You - Kaestrings.mp3
+189 | Grace | Michael W. Smith | 189 - Grace - Michael W. Smith.mp3
+190 | Gratitude | Anendlessocean | 190 - Gratitude - Anendlessocean.mp3
+191 | Idea 10 | Gibran Alcocer | 191 - Idea 10 - Gibran Alcocer.mp3
+192 | Kumama Papa (Refix) | Prinx Emmanuel | 192 - Kumama Papa (Refix) - Prinx Emmanuel.mp3
+193 | Trust God | Pius Adeniji, Holy Drill | 193 - Trust God - Pius Adeniji, Holy Drill.mp3
+194 | By the Water | Sondae | 194 - By the Water - Sondae.mp3
+195 | We Outside | Gaise Baba | 195 - We Outside - Gaise Baba.mp3
+196 | Pariwo | Prinx Emmanuel | 196 - Pariwo - Prinx Emmanuel.mp3
+197 | The National Anthem | The City Choir | 197 - The National Anthem - The City Choir.mp3
+198 | Biggi Man | Greatman Takit | 198 - Biggi Man - Greatman Takit.mp3
+199 | Have My Heart | Sondae, Bindang | 199 - Have My Heart - Sondae, Bindang.mp3
+200 | Miracle No Dey Tire Jesus | Moses Bliss, Festizie, Chizie | 200 - Miracle No Dey Tire Jesus - Moses Bliss, Festizie, Chizie.mp3
+201 | No Me Without You | Dunsin Oyekan | 201 - No Me Without You - Dunsin Oyekan.mp3
+202 | Heavy | Sondae | 202 - Heavy - Sondae.mp3
+203 | No One Else | Sondae | 203 - No One Else - Sondae.mp3
+204 | Garden in Manhattan | Josiah Queen | 204 - Garden in Manhattan - Josiah Queen.mp3
+205 | I Have Escaped | Lawrence Oyor | 205 - I Have Escaped - Lawrence Oyor.mp3
+206 | Worthy | Ko'rale & Kaestrings | 206 - Worthy - Ko'rale & Kaestrings.mp3
+207 | Building On | Sondae, Moflo, Aaron Cottman | 207 - Building On - Sondae, Moflo, Aaron Cottman.mp3
+208 | All the Praise | Greatman Takit | 208 - All the Praise - Greatman Takit.mp3
+209 | Jesus Is Coming Back Soon | Forrest Frank, Josiah Queen | 209 - Jesus Is Coming Back Soon - Forrest Frank, Josiah Queen.mp3
+210 | Deep Waters Trendyhiphop.com | S.b.g | 210 - Deep Waters Trendyhiphop.com - S.b.g.mp3
+211 | Deep Waters (Instrumental) | S.b.g | 211 - Deep Waters (Instrumental) - S.b.g.mp3
+212 | Love Is Kind | Sondae | 212 - Love Is Kind - Sondae.mp3
+213 | Holiday | Greatman Takit | 213 - Holiday - Greatman Takit.mp3
+214 | Make Heaven Crowded | Josiah Queen | 214 - Make Heaven Crowded - Josiah Queen.mp3
+215 | Draw Me Closer | Sondae | 215 - Draw Me Closer - Sondae.mp3
+216 | Za | Anendlessocean | 216 - Za - Anendlessocean.mp3
+217 | Lover | Sondae | 217 - Lover - Sondae.mp3
+218 | Show Me Your Nature | Sondae, Moflo, Jesse Felly | 218 - Show Me Your Nature - Sondae, Moflo, Jesse Felly.mp3
+219 | Elohim | Sondae | 219 - Elohim - Sondae.mp3
+220 | Heaven on Earth | Sinmidele | 220 - Heaven on Earth - Sinmidele.mp3
+221 | Let It Show (Live) | Kaestrings | 221 - Let It Show (Live) - Kaestrings.mp3
+222 | The Glory Song | Dunsin Oyekan | 222 - The Glory Song - Dunsin Oyekan.mp3
+223 | Pray | Limoblaze | 223 - Pray - Limoblaze.mp3
+224 | Commando | Ko'rale, Greatman Takit | 224 - Commando - Ko'rale, Greatman Takit.mp3
+225 | Touch of Heaven | Hannah Hobbs | 225 - Touch of Heaven - Hannah Hobbs.mp3
+226 | Adonai Lord of My Life | Josiah Queen | 226 - Adonai Lord of My Life - Josiah Queen.mp3
+227 | Holy Ghost (Live) | Pastor Emmanuel Iren, Sinach | 227 - Holy Ghost (Live) - Pastor Emmanuel Iren, Sinach.mp3
+228 | Prodigal | Greatman Takit | 228 - Prodigal - Greatman Takit.mp3
+229 | Alakori | Anendlessocean | 229 - Alakori - Anendlessocean.mp3
+230 | Come Fill My Heart | Cece Winans | 230 - Come Fill My Heart - Cece Winans.mp3
+231 | Clean Heart (Psalm 51) | Spillhouse | 231 - Clean Heart (Psalm 51) - Spillhouse.mp3
+232 | Worthy of My Praise | Dunsin Oyekan | 232 - Worthy of My Praise - Dunsin Oyekan.mp3
+233 | Burn | Dunsin Oyekan Feat. John Wilds | 233 - Burn - Dunsin Oyekan Feat. John Wilds.mp3
+234 | Majesty | Michael W. Smith | 234 - Majesty - Michael W. Smith.mp3
+235 | Nagode | Dunsin Oyekan | 235 - Nagode - Dunsin Oyekan.mp3
+236 | Guide Me | K3ndrick | 236 - Guide Me - K3ndrick.mp3
+237 | Aurora | Maggie1111 | 237 - Aurora - Maggie1111.mp3
+238 | Agalliao | Pastor Emmanuel Iren | 238 - Agalliao - Pastor Emmanuel Iren.mp3
+239 | Jowo | Greatman Takit | 239 - Jowo - Greatman Takit.mp3
+240 | Jugular Jugular | Lawrence Oyor, Greatman Takit | 240 - Jugular Jugular - Lawrence Oyor, Greatman Takit.mp3
+241 | The Heart of Worship (Live) | Michael W. Smith | 241 - The Heart of Worship (Live) - Michael W. Smith.mp3
+242 | Sssspotify.com Downloader 1773523264615 | Gospel Worship | 242 - Sssspotify.com Downloader 1773523264615.mp3
+243 | More - Live | Kaestrings | 243 - More - Live - Kaestrings.mp3
+244 | Praises (Remix) | Elevation Rhythm, Forrest Frank | 244 - Praises (Remix) - Elevation Rhythm, Forrest Frank.mp3
+245 | Raba Baba Eh | The Gratitude | 245 - Raba Baba Eh - The Gratitude.mp3
+246 | I Love the Lord | Steph Ade, Pastor Emmanuel Iren | 246 - I Love the Lord - Steph Ade, Pastor Emmanuel Iren.mp3
+247 | Really | K3ndrick | 247 - Really - K3ndrick.mp3
+248 | Living Water | Pius Adeniji, Holy Drill, Lawrence Oyor | 248 - Living Water - Pius Adeniji, Holy Drill, Lawrence Oyor.mp3
+249 | Ah Ah Eh Chant (Deep Soaking Instrumental) | Apostle Michael Orokpo | 249 - Ah Ah Eh Chant (Deep Soaking Instrumental) - Apostle Michael Orokpo.mp3
+250 | Deeper Experience Chant (Spontaneous) | Esther Jonathan | 250 - Deeper Experience Chant (Spontaneous) - Esther Jonathan.mp3
+251 | C&B (Cast & Bind) | Greatman Takit | 251 - C&B (Cast & Bind) - Greatman Takit.mp3
+252 | Tongues of Fire | Abba Feat. Angel Amamchukwu | 252 - Tongues of Fire - Abba Feat. Angel Amamchukwu.mp3
+253 | Alignment Chant (Ep) | Lawrence Oyor | 253 - Alignment Chant (Ep) - Lawrence Oyor.mp3
+254 | We Say No to You Satan | Theophilus Sunday | 254 - We Say No to You Satan - Theophilus Sunday.mp3
+255 | Deeper Experience Chant | Esther Jonathan, Kaestrings | 255 - Deeper Experience Chant - Esther Jonathan, Kaestrings.mp3
+256 | Rejoice Chant | Faith Owolabi | 256 - Rejoice Chant - Faith Owolabi.mp3
+257 | Sacred Flames (Chants of Activation) | Asher Ruona Feat. Ijeoma Nwachi | 257 - Sacred Flames (Chants of Activation) - Asher Ruona Feat. Ijeoma Nwachi.mp3
+258 | Drum Beats of War 1 | Apostle Edu Udechukwu | 258 - Drum Beats of War 1 - Apostle Edu Udechukwu.mp3
+259 | Take Over | Calledout Music | 259 - Take Over - Calledout Music.mp3
+260 | Ahhh Ehh Chant | Lawrence Oyor | 260 - Ahhh Ehh Chant - Lawrence Oyor.mp3
+261 | Prophetic Chant (Iba Oh) | Faith Owolabi | 261 - Prophetic Chant (Iba Oh) - Faith Owolabi.mp3
+262 | Take Over | Theophilus Sunday | 262 - Take Over - Theophilus Sunday.mp3
+263 | Fire on My Altar (Live) | Pastor Emmanuel Iren | 263 - Fire on My Altar (Live) - Pastor Emmanuel Iren.mp3
+264 | Intensify Another Measure | Theophilus Sunday | 264 - Intensify Another Measure - Theophilus Sunday.mp3
+265 | Secret Place Waiting (Spontaneous) | Hillsong Worship | 265 - Secret Place Waiting (Spontaneous) - Hillsong Worship.mp3
+266 | Earthen Vessel | Theophilus Sunday | 266 - Earthen Vessel - Theophilus Sunday.mp3
+267 | El Elohe Israel (Live) | Chris Delvan Gwamna | 267 - El Elohe Israel (Live) - Chris Delvan Gwamna.mp3
+268 | Alone With You | Josiah Queen | 268 - Alone With You - Josiah Queen.mp3
+269 | Yahweh, You Are Glorious | Chris Delvan Gwamna | 269 - Yahweh, You Are Glorious - Chris Delvan Gwamna.mp3
+270 | Yahweh (Live) | Chris Delvan Gwamna | 270 - Yahweh (Live) - Chris Delvan Gwamna.mp3
+271 | The Secret to Spiritual Growth and Power | Apostle Michael Orokpo | 271 - The Secret to Spiritual Growth and Power - Apostle Michael Orokpo.mp3
+272 | Surrounded by You | Sondae | 272 - Surrounded by You - Sondae.mp3
+273 | Air I Breathe | Sondae, Isabelle Brown | 273 - Air I Breathe - Sondae, Isabelle Brown.mp3
+274 | Worship Instrumental & Prayer Meditation | Apostle Michael Orokpo | 274 - Worship Instrumental & Prayer Meditation - Apostle Michael Orokpo.mp3
+275 | Where Did My Hunger Go by Minister Theophilus Sunday | Gospel Worship | 275 - Where Did My Hunger Go by Minister Theophilus Sunday.mp3
+276 | My Generation | Chris Delvan Gwamna | 276 - My Generation - Chris Delvan Gwamna.mp3
+277 | To the Ends of the Earth | Chris Delvan Gwamna | 277 - To the Ends of the Earth - Chris Delvan Gwamna.mp3
+278 | Send Down the Spirit | Chris Delvan Gwamna | 278 - Send Down the Spirit - Chris Delvan Gwamna.mp3
+279 | Bread of Life | Chris Delvan Gwamna | 279 - Bread of Life - Chris Delvan Gwamna.mp3
+280 | How Can You Walk (Live) | Chris Delvan Gwamna | 280 - How Can You Walk (Live) - Chris Delvan Gwamna.mp3
+281 | Guiding Me Safely | Chris Delvan Gwamna | 281 - Guiding Me Safely - Chris Delvan Gwamna.mp3
+282 | Walk With You | Chris Delvan Gwamna | 282 - Walk With You - Chris Delvan Gwamna.mp3
+283 | Here and Now | Chris Delvan Gwamna | 283 - Here and Now - Chris Delvan Gwamna.mp3
+284 | We Thank Thee | Jim Reeves | 284 - We Thank Thee - Jim Reeves.mp3
+
+================================================================================
+THE 5 TARGET CLASSIFICATIONS
+================================================================================
+
+Chapter 1: Devotional Warm-Up & Intimate Presence
+- Mood & Purpose: Quiet devotion, heartfelt surrender, personal prayer, reverence, intimate communion, and adoration.
+- Musical Characteristics: Slow-to-mid tempo acoustic worship, warm piano, contemplative guitar, reverent worship ballads (true tempo 65-85 BPM).
+- Note: Many live worship songs feature live drums or 16th-note shaker subdivisions that algorithms mistake for fast tempos, but their spiritual and melodic weight is slow, intimate, and altar-focused.
+- Key Examples: Donnie McClurkin (Speak to My Heart), Sondae (Deeper, Glorious), Matt Redman (The Heart of Worship), Michael W. Smith (Lord I Give You My Heart, Majesty, Grace), Dunsin Oyekan (Burn, Worthy of My Praise, Nagode), Minister Mike (Ran Mi Lowo).
+
+Chapter 2: Mid-Tempo Groove & Uplifting Praise
+- Mood & Purpose: Celebratory, joyful bounce, grateful walking-with-God rhythm, uplifting faith declarations.
+- Musical Characteristics: Afro-gospel grooves, syncopated rhythms, contemporary R&B/afrobeat swing, mid-tempo praise (90-115 BPM).
+- Key Examples: Greatman Takit (You Are Good, Correct, Holiday, Commando), Limoblaze (Jireh, Holy Father), Prinx Emmanuel (Bo Ta Joor, Bigger - Odogwu, Pariwo), Anendlessocean (Eden, Confidential, D2d, Sori, Alakori), Gaise Baba (Elijah Level), Moses Bliss (Umbrella).
+
+Chapter 3: High-Praise & Joyful Celebration
+- Mood & Purpose: Peak energy, celebratory dance, triumphant shouting, physical rejoicing, corporate jubilation.
+- Musical Characteristics: Uptempo, driving drums, brass/synth energy, high dynamic drive, fast foot-stomping tempo (118-140+ BPM).
+- Key Examples: Forrest Frank (UP!, Lemonade, Good Day, OKAY!), The Gratitude (Raba Baba Eh), Greatman Takit (Inferno, Victory), Dunsin Oyekan (The Glory Song uptempo live moments).
+
+Chapter 4: Prophetic Warfare & Deep Chants
+- Mood & Purpose: Spiritual warfare, marching intercession, tongues of fire, prophetic activation, tearing down strongholds.
+- Musical Characteristics: Heavy tribal/marching war drums, intensive chants, driving sustained vocal calls, spiritual intensity.
+- Key Examples: Apostle Edu Udechukwu (Drum Beats of War 1), Lawrence Oyor (Alignment Chant, Ahhh Ehh Chant, Jugular Jugular), Theophilus Sunday (We Say No to You Satan, Intensify Another Measure), Greatman Takit (C&B Cast & Bind), Pastor Emmanuel Iren (Fire on My Altar).
+
+Chapter 5: Deep Soak, Atmospheric Prayer & Reflection
+- Mood & Purpose: Prolonged prayer soaking, contemplative stillness, quiet meditation, resting in God's presence, atmospheric pads.
+- Musical Characteristics: Extended ambient tracks, slow atmospheric washes, quiet strings/pads, gentle instrumental meditation, long prophetic soaking sessions (<75 BPM or non-rhythmic).
+- Key Examples: Apostle Michael Orokpo (Worship Instrumental & Prayer Meditation, Ah Ah Eh Chant), Chris Delvan Gwamna (El Elohe Israel, Yahweh, To the Ends of the Earth, Guiding Me Safely, Bread of Life), Theophilus Sunday (Earthen Vessel, Kill What's Left of Me, Where Did My Hunger Go), Hillsong (Secret Place Waiting Spontaneous), Frederic Chopin (Nocturne Rain & Piano), Jim Reeves (We Thank Thee).
+
+================================================================================
+PROMPT FOR THE CLASSIFIER AI
+================================================================================
+
+[COPY AND PASTE THIS ENTIRE PROMPT TO THE TARGET AI]:
+
+"""
+You are an expert musicologist, Christian music curator, and sound director specializing in contemporary gospel, Nigerian gospel, prophetic worship, and Christian worship music.
+
+TASK:
+I have provided a catalog of 284 songs above. For each song:
+1. Conduct a live web search / knowledge lookup using the Song Title and Artist to identify its true genre, lyrical theme, ministerial context, and musical mood.
+2. IMPORTANT MUSICAL DISTINCTION: Do NOT confuse live worship songs with fast dance music! Many slow worship ballads (e.g. by Dunsin Oyekan, Michael W. Smith, Kaestrings, Minister Mike) have driving live worship drums or 16th-note shakers, but their core downbeat pulse is slow (65-80 BPM) and their spiritual posture is intimate devotional altar worship. Those belong in Chapter 1 or Chapter 5, NOT Chapter 3!
+3. Assign each of the 284 songs to EXACTLY ONE of the 5 Chapters defined above:
+   - Chapter 1: Devotional Warm-Up & Intimate Presence
+   - Chapter 2: Mid-Tempo Groove & Uplifting Praise
+   - Chapter 3: High-Praise & Joyful Celebration
+   - Chapter 4: Prophetic Warfare & Deep Chants
+   - Chapter 5: Deep Soak, Atmospheric Prayer & Reflection
+
+OUTPUT FORMAT:
+Provide the output as a clean numbered list from 001 to 284:
+[Track Number] | [Song Title] | [Artist] | [Assigned Chapter] | [Brief 1-sentence reason based on researched mood/tempo]
+
+Example:
+001 | Deeper | Sondae | Chapter 1: Devotional Warm-Up & Intimate Presence | Intimate acoustic R&B worship focusing on communion with God.
+232 | Worthy of My Praise | Dunsin Oyekan | Chapter 1: Devotional Warm-Up & Intimate Presence | Altar worship and adoration with live drums, slow true tempo and deep reverent consecration.
+251 | C&B (Cast & Bind) | Greatman Takit | Chapter 4: Prophetic Warfare & Deep Chants | Spiritual warfare declarations against demonic opposition with aggressive marching rhythm.
+
+Please process and classify all 284 tracks completely without truncating.
+"""

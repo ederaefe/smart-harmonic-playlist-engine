@@ -1,0 +1,332 @@
+=============================================================================================================================
+GOSPEL DJ SEQUENCE — VERSION 3 (GROUNDED FORENSIC MANIFEST)
+=============================================================================================================================
+Sequence Arc:
+  Chapter 1: Devotional Warm-Up & Intimate Presence (124 Tracks)
+  Chapter 2: Mid-Tempo Groove & Uplifting Praise (62 Tracks)
+  Chapter 3: High-Praise & Joyful Celebration (38 Tracks)
+  Chapter 4: Prophetic Warfare & Deep Chants (28 Tracks)
+  Chapter 5: Deep Soak, Atmospheric Prayer & Reflection (25 Tracks)
+  Quality Control / Review List: 8 Entries (Held outside continuous flow)
+  Total Tracks: 285 Tracks (277 Continuous Music + 8 Review/Interludes)
+=============================================================================================================================
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+SECTION: [CHAPTER 1: DEVOTIONAL WARM-UP & INTIMATE PRESENCE]
+-----------------------------------------------------------------------------------------------------------------------------
+Seq   | Orig# | Beat (BPM) | Tone (Key & Camelot)     | Energy     | Conf   | Track Title & Artist
+-----------------------------------------------------------------------------------------------------------------------------
+001   | 002   | 80.7 BPM   | C Major (7B)             | -15.0 dB   | MED    | 001 - Speak to My Heart - Donnie Mcclurkin.mp3
+002   | 004   | 76.0 BPM   | Bb Major (6B)            | -11.3 dB   | LOW    | 002 - Lord I Need You - Lofi Christian Nation.mp3
+003   | 005   | 73.8 BPM   | Bb Major (6B)            | -10.2 dB   | MED    | 003 - The Heart of Worship - Matt Redman.mp3
+004   | 006   | 73.8 BPM   | C Major (8B)             | -13.9 dB   | LOW    | 004 - Hello God - Dolly Parton.mp3
+005   | 008   | 83.4 BPM   | C Major (9B)             | -15.0 dB   | MED    | 005 - Lord I Give You My Heart - Michael W. Smith.mp3
+006   | 028   | 83.4 BPM   | C Minor (5A)             | -12.4 dB   | MED    | 006 - Psalm 103 1-22 (10,000 Reasons) - Matt Redman.mp3
+007   | 080   | 107.7 BPM  | C Major (12B)            | -15.0 dB   | MED    | 007 - King of Glory - Michael W. Smith.mp3
+008   | 125   | 143.6 BPM  | C Major (9B)             | -15.0 dB   | MED    | 008 - Breathe - Michael W. Smith.mp3
+009   | 126   | 143.6 BPM  | G Major (9B)             | -19.8 dB   | MED    | 009 - Be Magnified - Don Moen.mp3
+010   | 138   | 161.5 BPM  | C Major (9B)             | -15.0 dB   | MED    | 010 - Save Me From Myself - Michael W. Smith.mp3
+011   | 189   | 161.5 BPM  | C Major (6B)             | -15.0 dB   | MED    | 011 - Grace - Michael W. Smith.mp3
+012   | 234   | 143.6 BPM  | C Major (6B)             | -15.0 dB   | MED    | 012 - Majesty - Michael W. Smith.mp3
+013   | 241   | 143.6 BPM  | B Major (1B)             | -14.5 dB   | MED    | 013 - The Heart of Worship (Live) - Michael W. Smith.mp3
+014   | 284   | 80.7 BPM   | G Major (9B)             | -20.1 dB   | LOW    | 014 - We Thank Thee - Jim Reeves.mp3
+015   | 010   | 83.4 BPM   | B Minor (10A)            | -12.4 dB   | LOW    | 015 - Iyin Ye (Acoustic) - Paul Tomisin.mp3
+016   | 020   | 89.1 BPM   | C Major (8B)             | -14.5 dB   | LOW    | 016 - Home - 121selah.mp3
+017   | 039   | 80.7 BPM   | Ab Minor (1A)            | -14.0 dB   | LOW    | 017 - Heaven Ain't Like What They Said - Jimmy Clifton.mp3
+018   | 086   | 107.7 BPM  | C Major (3B)             | -15.0 dB   | LOW    | 018 - In Your Way - Alex Jean.mp3
+019   | 097   | 103.4 BPM  | C Major (4A)             | -15.0 dB   | LOW    | 019 - Satisfied in You (Psalm 42) - The Sing Team.mp3
+020   | 107   | 117.5 BPM  | C Major (8B)             | -11.8 dB   | LOW    | 020 - Flowers - Samantha Ebert.mp3
+021   | 121   | 136.0 BPM  | D Major (10B)            | -11.3 dB   | MED    | 021 - I Need You More - Josiah Queen.mp3
+022   | 136   | 161.5 BPM  | B Minor (10A)            | -16.4 dB   | LOW    | 022 - The Man Jesus Christ - Jimmy Clifton.mp3
+023   | 140   | 152.0 BPM  | A Minor (8A)             | -14.9 dB   | LOW    | 023 - In Your Midst - Allie Paige.mp3
+024   | 144   | 143.6 BPM  | F Major (7B)             | -11.1 dB   | MED    | 024 - Guide Me (Use Me) - Josiah Queen.mp3
+025   | 157   | 136.0 BPM  | Db Major (3B)            | -18.6 dB   | MED    | 025 - Like a Tree (Psalm 1) - Josiah Queen.mp3
+026   | 162   | 129.2 BPM  | F# Major (2B)            | -10.7 dB   | MED    | 026 - The Prodigal - Josiah Queen.mp3
+027   | 165   | 129.2 BPM  | C# Minor (12A)           | -8.8 dB    | MED    | 027 - Take Me Home - Josiah Queen.mp3
+028   | 176   | 172.3 BPM  | F# Minor (11A)           | -11.4 dB   | MED    | 028 - Two Wooden Beams - Josiah Queen.mp3
+029   | 204   | 123.0 BPM  | C# Minor (12A)           | -9.9 dB    | MED    | 029 - Garden in Manhattan - Josiah Queen.mp3
+030   | 226   | 136.0 BPM  | C Major (8B)             | -11.9 dB   | MED    | 030 - Adonai Lord of My Life - Josiah Queen.mp3
+031   | 268   | 117.5 BPM  | A Major (11B)            | -9.5 dB    | MED    | 031 - Alone With You - Josiah Queen.mp3
+032   | 001   | 80.7 BPM   | D Minor (7A)             | -15.6 dB   | MED    | 032 - Deeper - Sondae.mp3
+033   | 013   | 92.3 BPM   | C Major (12B)            | -15.0 dB   | MED    | 033 - Glorious - Sondae.mp3
+034   | 014   | 95.7 BPM   | C Major (11B)            | -15.0 dB   | LOW    | 034 - Make You Feel My Love - Anendlessocean.mp3
+035   | 018   | 92.3 BPM   | A Minor (8A)             | -14.6 dB   | MED    | 035 - Peter - Sondae.mp3
+036   | 025   | 95.7 BPM   | C Major (5A)             | -15.0 dB   | MED    | 036 - Yours - Sondae, SIV.mp3
+037   | 027   | 92.3 BPM   | Eb Minor (5B)            | -11.8 dB   | MED    | 037 - Glimpse of Heaven - Sondae.mp3
+038   | 033   | 86.1 BPM   | E Major (2B)             | -10.5 dB   | LOW    | 038 - Your Love Ii Ft. Soweto Gospel Choir - Moses Bliss.mp3
+039   | 036   | 83.4 BPM   | C Major (4A)             | -15.0 dB   | LOW    | 039 - Order My Steps in Your Word - Gmwa Women of Worship.mp3
+040   | 038   | 89.1 BPM   | C Major (1A)             | -15.0 dB   | MED    | 040 - Desert Storms - Sondae.mp3
+041   | 040   | 80.7 BPM   | Ab Minor (1A)            | -14.8 dB   | LOW    | 041 - Something New (Feat. Sondae) - Crystal Mills.mp3
+042   | 044   | 71.8 BPM   | F# Minor (11A)           | -16.8 dB   | MED    | 042 - Blessings - Sondae.mp3
+043   | 045   | 71.8 BPM   | F# Minor (11A)           | -17.4 dB   | LOW    | 043 - Grace Echo - Soul of Afrika.mp3
+044   | 056   | 99.4 BPM   | G Major (9B)             | -9.7 dB    | LOW    | 044 - Nothing God Can't Do - Mike Malagies.mp3
+045   | 058   | 103.4 BPM  | C Major (8A)             | -15.0 dB   | LOW    | 045 - I'd Be Lying - One House.mp3
+046   | 062   | 99.4 BPM   | G Minor (6A)             | -18.0 dB   | MED    | 046 - Only What God Can Give - Sondae.mp3
+047   | 064   | 112.3 BPM  | G Minor (6A)             | -9.8 dB    | MED    | 047 - Perfect Peace - Sondae.mp3
+048   | 072   | 117.5 BPM  | C Major (10A)            | -15.0 dB   | MED    | 048 - Not Alone - Sondae.mp3
+049   | 073   | 117.5 BPM  | C Major (11A)            | -15.0 dB   | MED    | 049 - Have Mercy on Me - Sondae, Moflo.mp3
+050   | 075   | 117.5 BPM  | C Major (12A)            | -15.0 dB   | MED    | 050 - Cornerstone - Sondae.mp3
+051   | 076   | 117.5 BPM  | C Major (12A)            | -15.0 dB   | LOW    | 051 - I'm in Love - Lawrence Oyor.mp3
+052   | 079   | 107.7 BPM  | C# Minor (12A)           | -13.6 dB   | LOW    | 052 - Lalalove - Claudia Isaki.mp3
+053   | 081   | 103.4 BPM  | C Major (1B)             | -15.0 dB   | MED    | 053 - Your Love - Sondae.mp3
+054   | 082   | 112.3 BPM  | C Major (1A)             | -15.0 dB   | MED    | 054 - Reasons - Sondae.mp3
+055   | 083   | 112.3 BPM  | Ab Minor (1A)            | -12.2 dB   | MED    | 055 - Open My Eyes - Sondae.mp3
+056   | 084   | 112.3 BPM  | B Major (1B)             | -10.0 dB   | MED    | 056 - In the Name of Jesus - Sondae.mp3
+057   | 085   | 117.5 BPM  | C Major (1B)             | -15.0 dB   | LOW    | 057 - Wade in the Water - Live - The Spirituals.mp3
+058   | 089   | 107.7 BPM  | C Major (2A)             | -15.0 dB   | LOW    | 058 - Songs of Sons (I Am Not Alone) - Asher Ruona.mp3
+059   | 091   | 103.4 BPM  | Bb Minor (3A)            | -15.2 dB   | MED    | 059 - Fly Away - Sondae.mp3
+060   | 106   | 117.5 BPM  | C Major (8B)             | -15.0 dB   | MED    | 060 - You Are Life - Hillsong Worship.mp3
+061   | 108   | 117.5 BPM  | C Major (9B)             | -15.0 dB   | LOW    | 061 - Alone - Anendlessocean.mp3
+062   | 110   | 117.5 BPM  | C Major (9A)             | -15.0 dB   | MED    | 062 - Softly - Sondae.mp3
+063   | 111   | 112.3 BPM  | E Minor (9A)             | -10.9 dB   | MED    | 063 - Stand Up - Sondae.mp3
+064   | 112   | 112.3 BPM  | F# Minor (11A)           | -27.4 dB   | LOW    | 064 - Favour - Lawrence Oyor.mp3
+065   | 113   | 136.0 BPM  | A Major (11B)            | -10.6 dB   | LOW    | 065 - Jesus Culture (Feat. Marie Elizabeth) - What a Beautiful Name.mp3
+066   | 127   | 143.6 BPM  | C Major (10B)            | -15.0 dB   | LOW    | 066 - Only Yeshua - David Dam.mp3
+067   | 131   | 152.0 BPM  | F# Minor (11A)           | -11.1 dB   | MED    | 067 - You Said - Sondae.mp3
+068   | 132   | 152.0 BPM  | C Major (11B)            | -15.0 dB   | MED    | 068 - Jesus I Need You - Hillsong Worship.mp3
+069   | 133   | 152.0 BPM  | A Major (11B)            | -15.6 dB   | MED    | 069 - Crystal's Cry - Sondae.mp3
+070   | 134   | 143.6 BPM  | F# Minor (11A)           | -18.0 dB   | MED    | 070 - Holy Essence - Sondae.mp3
+071   | 135   | 129.2 BPM  | G Major (9B)             | -9.3 dB    | MED    | 071 - Jesus, Sometimes I - Sondae.mp3
+072   | 139   | 161.5 BPM  | E Minor (9A)             | -14.3 dB   | LOW    | 072 - Only God - Hillari, Ryan Ofei.mp3
+073   | 143   | 143.6 BPM  | C Major (8B)             | -11.5 dB   | MED    | 073 - This I Believe (The Creed) - Hillsong Worship.mp3
+074   | 150   | 129.2 BPM  | C Minor (5A)             | -16.2 dB   | LOW    | 074 - Fragrance (Feat. Ggtq All Stars) - Esther Oji.mp3
+075   | 160   | 136.0 BPM  | B Major (1B)             | -9.8 dB    | MED    | 075 - Lord I Wanna Know Ya - Sondae.mp3
+076   | 175   | 172.3 BPM  | C Major (11B)            | -15.0 dB   | LOW    | 076 - Relationship - Holy Drill, Pius Adeniji.mp3
+077   | 185   | 152.0 BPM  | C Minor (5A)             | -13.0 dB   | MED    | 077 - In the Cool of the Day - Sondae, Moflo.mp3
+078   | 193   | 184.6 BPM  | F Major (7B)             | -10.6 dB   | LOW    | 078 - Trust God - Pius Adeniji, Holy Drill.mp3
+079   | 194   | 184.6 BPM  | G Major (9B)             | -11.2 dB   | MED    | 079 - By the Water - Sondae.mp3
+080   | 199   | 117.5 BPM  | F# Minor (11A)           | -12.6 dB   | MED    | 080 - Have My Heart - Sondae, Bindang.mp3
+081   | 202   | 123.0 BPM  | C Major (11A)            | -15.0 dB   | MED    | 081 - Heavy - Sondae.mp3
+082   | 203   | 123.0 BPM  | C Major (11A)            | -15.0 dB   | MED    | 082 - No One Else - Sondae.mp3
+083   | 207   | 117.5 BPM  | A Minor (1B)             | -14.6 dB   | MED    | 083 - Building On - Sondae, Moflo, Aaron Cottman.mp3
+084   | 212   | 123.0 BPM  | C Major (5B)             | -15.0 dB   | MED    | 084 - Love Is Kind - Sondae.mp3
+085   | 215   | 123.0 BPM  | C Major (6A)             | -15.0 dB   | MED    | 085 - Draw Me Closer - Sondae.mp3
+086   | 217   | 117.5 BPM  | D Minor (7A)             | -11.4 dB   | MED    | 086 - Lover - Sondae.mp3
+087   | 218   | 123.0 BPM  | A Minor (8A)             | -11.3 dB   | MED    | 087 - Show Me Your Nature - Sondae, Moflo, Jesse Felly.mp3
+088   | 219   | 123.0 BPM  | C Major (8B)             | -15.0 dB   | MED    | 088 - Elohim - Sondae.mp3
+089   | 220   | 129.2 BPM  | C Major (8B)             | -13.7 dB   | LOW    | 089 - Heaven on Earth - Sinmidele.mp3
+090   | 223   | 136.0 BPM  | E Minor (9A)             | -10.1 dB   | LOW    | 090 - Pray - Limoblaze.mp3
+091   | 225   | 136.0 BPM  | C Major (8B)             | -15.0 dB   | LOW    | 091 - Touch of Heaven - Hannah Hobbs.mp3
+092   | 236   | 143.6 BPM  | F Major (7B)             | -13.9 dB   | LOW    | 092 - Guide Me - K3ndrick.mp3
+093   | 247   | 112.3 BPM  | Ab Minor (1A)            | -16.9 dB   | LOW    | 093 - Really - K3ndrick.mp3
+094   | 272   | 78.3 BPM   | Eb Minor (2A)            | -11.8 dB   | MED    | 094 - Surrounded by You - Sondae.mp3
+095   | 273   | 117.5 BPM  | Bb Minor (3A)            | -11.3 dB   | MED    | 095 - Air I Breathe - Sondae, Isabelle Brown.mp3
+096   | 276   | 86.1 BPM   | C Major (5B)             | -15.0 dB   | LOW    | 096 - My Generation - Chris Delvan Gwamna.mp3
+097   | 277   | 103.4 BPM  | G Minor (6A)             | -11.0 dB   | LOW    | 097 - To the Ends of the Earth - Chris Delvan Gwamna.mp3
+098   | 279   | 112.3 BPM  | C Major (9A)             | -15.0 dB   | LOW    | 098 - Bread of Life - Chris Delvan Gwamna.mp3
+099   | 281   | 92.3 BPM   | C Major (9B)             | -15.0 dB   | LOW    | 099 - Guiding Me Safely - Chris Delvan Gwamna.mp3
+100   | 282   | 89.1 BPM   | C Major (9B)             | -15.0 dB   | LOW    | 100 - Walk With You - Chris Delvan Gwamna.mp3
+101   | 283   | 172.3 BPM  | C Major (10B)            | -15.0 dB   | LOW    | 101 - Here and Now - Chris Delvan Gwamna.mp3
+102   | 017   | 92.3 BPM   | C# Minor (8A)            | -12.7 dB   | MED    | 102 - Trust in God - Elevation Worship.mp3
+103   | 021   | 89.1 BPM   | C Major (7B)             | -15.0 dB   | MED    | 103 - I Will Love - Cece Winans.mp3
+104   | 022   | 95.7 BPM   | C Major (7B)             | -15.0 dB   | MED    | 104 - Broken (Live) - Kaestrings.mp3
+105   | 024   | 95.7 BPM   | C Major (6A)             | -15.0 dB   | MED    | 105 - Love (Me Na Yi Daka so Ni Haka) - Kaestrings.mp3
+106   | 029   | 80.7 BPM   | C Major (5B)             | -15.0 dB   | MED    | 106 - Desire - Kaestrings.mp3
+107   | 030   | 89.1 BPM   | Eb Major (5B)            | -21.4 dB   | MED    | 107 - Iwo Loye - Minister Mike.mp3
+108   | 032   | 95.7 BPM   | C Major (2B)             | -15.0 dB   | MED    | 108 - Who Is Like You - Dunsin Oyekan.mp3
+109   | 037   | 89.1 BPM   | C Major (6A)             | -15.0 dB   | MED    | 109 - Worthy - Elevation Worship.mp3
+110   | 149   | 136.0 BPM  | C Major (5A)             | -15.0 dB   | MED    | 110 - We Bow Down - Victoria Orenze.mp3
+111   | 159   | 136.0 BPM  | Db Major (3B)            | -13.1 dB   | MED    | 111 - At the Cross - Cece Winans.mp3
+112   | 179   | 161.5 BPM  | E Major (12B)            | -19.1 dB   | MED    | 112 - Haske (Choral) - Kaestrings.mp3
+113   | 182   | 152.0 BPM  | Db Major (3B)            | -14.7 dB   | MED    | 113 - Ran Mi Lowo (Help Me) - Minister Mike.mp3
+114   | 188   | 152.0 BPM  | C Major (6B)             | -15.0 dB   | MED    | 114 - Let It Show That I Met With You - Kaestrings.mp3
+115   | 201   | 123.0 BPM  | A Major (11B)            | -9.5 dB    | MED    | 115 - No Me Without You - Dunsin Oyekan.mp3
+116   | 206   | 123.0 BPM  | C Major (1B)             | -15.0 dB   | MED    | 116 - Worthy - Ko'rale & Kaestrings.mp3
+117   | 221   | 117.5 BPM  | Bb Major (6B)            | -9.7 dB    | MED    | 117 - Let It Show (Live) - Kaestrings.mp3
+118   | 230   | 129.2 BPM  | C Major (6B)             | -15.0 dB   | MED    | 118 - Come Fill My Heart - Cece Winans.mp3
+119   | 231   | 143.6 BPM  | G Minor (6A)             | -12.7 dB   | LOW    | 119 - Clean Heart (Psalm 51) - Spillhouse.mp3
+120   | 232   | 143.6 BPM  | G Minor (6A)             | -9.4 dB    | MED    | 120 - Worthy of My Praise - Dunsin Oyekan.mp3
+121   | 233   | 143.6 BPM  | G Minor (6A)             | -11.3 dB   | MED    | 121 - Burn - Dunsin Oyekan Feat. John Wilds.mp3
+122   | 235   | 143.6 BPM  | C Major (6B)             | -15.0 dB   | MED    | 122 - Nagode - Dunsin Oyekan.mp3
+123   | 243   | 143.6 BPM  | F# Major (2B)            | -11.2 dB   | MED    | 123 - More - Live - Kaestrings.mp3
+124   | 246   | 136.0 BPM  | C Major (2A)             | -15.0 dB   | LOW    | 124 - I Love the Lord - Steph Ade, Pastor Emmanuel Iren.mp3
+
+-----------------------------------------------------------------------------------------------------------------------------
+SECTION: [CHAPTER 2: MID-TEMPO GROOVE & UPLIFTING PRAISE]
+-----------------------------------------------------------------------------------------------------------------------------
+Seq   | Orig# | Beat (BPM) | Tone (Key & Camelot)     | Energy     | Conf   | Track Title & Artist
+-----------------------------------------------------------------------------------------------------------------------------
+125   | 035   | 83.4 BPM   | Bb Minor (3A)            | -12.1 dB   | MED    | 125 - Brighter Day - Sondae, Moflo, Limoblaze.mp3
+126   | 047   | 112.3 BPM  | C Major (11B)            | -15.0 dB   | MED    | 126 - D2d - Anendlessocean.mp3
+127   | 048   | 112.3 BPM  | C Major (11B)            | -15.0 dB   | MED    | 127 - Eden - Anendlessocean.mp3
+128   | 053   | 103.4 BPM  | C Major (12B)            | -15.0 dB   | MED    | 128 - Confidential - Anendlessocean.mp3
+129   | 063   | 99.4 BPM   | F Major (7B)             | -10.3 dB   | MED    | 129 - P & A - Anendlessocean.mp3
+130   | 077   | 112.3 BPM  | C Major (12A)            | -15.0 dB   | MED    | 130 - Sori - Anendlessocean.mp3
+131   | 087   | 112.3 BPM  | C Major (3A)             | -15.0 dB   | MED    | 131 - Love Practitioner - Anendlessocean.mp3
+132   | 098   | 107.7 BPM  | C Major (5A)             | -15.0 dB   | MED    | 132 - Nazarene - Anendlessocean.mp3
+133   | 129   | 143.6 BPM  | C Major (12B)            | -15.0 dB   | MED    | 133 - Revival - Anendlessocean.mp3
+134   | 151   | 129.2 BPM  | C Major (5B)             | -15.0 dB   | MED    | 134 - Juba - Anendlessocean.mp3
+135   | 154   | 129.2 BPM  | C Major (4B)             | -15.0 dB   | MED    | 135 - El - Anendlessocean.mp3
+136   | 158   | 99.4 BPM   | F Major (7B)             | -10.3 dB   | MED    | 136 - L.n.b (Life Not Borrowed) - Anendlessocean.mp3
+137   | 183   | 152.0 BPM  | C Major (4B)             | -15.0 dB   | MED    | 137 - Ji - Anendlessocean.mp3
+138   | 186   | 152.0 BPM  | C Major (5B)             | -15.0 dB   | MED    | 138 - Bire - Anendlessocean.mp3
+139   | 190   | 161.5 BPM  | C Major (6B)             | -15.0 dB   | MED    | 139 - Gratitude - Anendlessocean.mp3
+140   | 216   | 117.5 BPM  | F Major (7B)             | -10.3 dB   | MED    | 140 - Za - Anendlessocean.mp3
+141   | 229   | 136.0 BPM  | C Major (7B)             | -15.0 dB   | MED    | 141 - Alakori - Anendlessocean.mp3
+142   | 023   | 95.7 BPM   | C Major (6B)             | -15.0 dB   | MED    | 142 - Jireh (My Provider) - Limoblaze, Lecrae, Happi.mp3
+143   | 031   | 103.4 BPM  | Ab Major (4B)            | -16.9 dB   | LOW    | 143 - Angels - Faith Owolabi.mp3
+144   | 049   | 112.3 BPM  | A Major (11B)            | -10.9 dB   | MED    | 144 - Elijah Level (With Limoblaze) - Gaise Baba, Limoblaze.mp3
+145   | 060   | 107.7 BPM  | C Major (6A)             | -15.0 dB   | MED    | 145 - Umbrella - Moses Bliss, Festizie, Chizie, S.o.n Music, Neeja, the Membrane, Doris Joseph, Ajay Asika, Godfrey Gad.mp3
+146   | 066   | 112.3 BPM  | C Major (8B)             | -11.1 dB   | MED    | 146 - E Dey Flow - Moses Bliss, Neeja, Spotlite Nation, Ajay Asika, Festizie, S.o.n Music, Chizie.mp3
+147   | 093   | 99.4 BPM   | Db Major (3B)            | -12.4 dB   | MED    | 147 - Baba - Ryan Ofei, Calledout Music, Annatoria.mp3
+148   | 095   | 103.4 BPM  | Ab Major (4B)            | -20.1 dB   | LOW    | 148 - Cece Winans - Goodness of God (Afro Soul Cover) - LUME.mp3
+149   | 100   | 112.3 BPM  | C Major (5A)             | -15.0 dB   | MED    | 149 - Holy Father - Limoblaze.mp3
+150   | 137   | 161.5 BPM  | C Major (9A)             | -15.0 dB   | MED    | 150 - Tinbake - Limoblaze, Greatman Takit.mp3
+151   | 200   | 123.0 BPM  | C Major (11B)            | -15.0 dB   | MED    | 151 - Miracle No Dey Tire Jesus - Moses Bliss, Festizie, Chizie.mp3
+152   | 259   | 92.3 BPM   | C Major (6B)             | -15.0 dB   | MED    | 152 - Take Over - Calledout Music.mp3
+153   | 015   | 95.7 BPM   | F# Minor (11A)           | -17.1 dB   | LOW    | 153 - Open Doors - Ada Ehi.mp3
+154   | 016   | 95.7 BPM   | C Major (9A)             | -15.0 dB   | HIGH   | 154 - The Train Theme Song - Lawrence Oyor.mp3
+155   | 050   | 103.4 BPM  | F# Minor (11A)           | -12.9 dB   | LOW    | 155 - My Promised Land - Josiah Queen.mp3
+156   | 055   | 103.4 BPM  | D Major (10B)            | -9.8 dB    | LOW    | 156 - Dusty Bibles - Josiah Queen.mp3
+157   | 057   | 112.3 BPM  | A Major (11B)            | -10.9 dB   | MED    | 157 - Elijah Level - Gaise Baba.mp3
+158   | 059   | 107.7 BPM  | C Major (7A)             | -15.0 dB   | MED    | 158 - Correct - Greatman Takit.mp3
+159   | 061   | 103.4 BPM  | C Major (6A)             | -15.0 dB   | MED    | 159 - Eternal - Greatman Takit.mp3
+160   | 065   | 112.3 BPM  | Bb Major (6B)            | -10.7 dB   | MED    | 160 - Leave Am - Greatman Takit.mp3
+161   | 067   | 112.3 BPM  | C Major (8B)             | -12.9 dB   | LOW    | 161 - Let Me In - 121selah.mp3
+162   | 074   | 117.5 BPM  | C Major (11A)            | -15.0 dB   | MED    | 162 - Finidi George (If I Hear Peem) - Greatman Takit, Imrhan.mp3
+163   | 088   | 112.3 BPM  | C Major (2A)             | -15.0 dB   | MED    | 163 - Celebration - Greatman Takit, Gospelondebeatz.mp3
+164   | 096   | 103.4 BPM  | C Major (4B)             | -15.0 dB   | LOW    | 164 - Anointed - Pastor Emmanuel Iren, Godswill Oyor.mp3
+165   | 103   | 117.5 BPM  | C Major (6A)             | -15.0 dB   | MED    | 165 - Wys - Greatman Takit.mp3
+166   | 104   | 117.5 BPM  | C Major (7A)             | -15.0 dB   | MED    | 166 - ADML - Greatman Takit.mp3
+167   | 115   | 136.0 BPM  | C# Minor (12A)           | -11.8 dB   | MED    | 167 - Holy Spirit - Greatman Takit.mp3
+168   | 117   | 136.0 BPM  | C Major (12A)            | -15.0 dB   | MED    | 168 - Mercy - Greatman Takit.mp3
+169   | 120   | 143.6 BPM  | D Major (10B)            | -8.8 dB    | LOW    | 169 - Look at God Naijaslide.com.ng - Saint Finnikin Naijaslide.com.ng.mp3
+170   | 142   | 143.6 BPM  | C Major (8B)             | -8.4 dB    | LOW    | 170 - God Did - Rua Young.mp3
+171   | 156   | 129.2 BPM  | C Major (3A)             | -15.0 dB   | MED    | 171 - Good Day - Rotimikeys.mp3
+172   | 161   | 129.2 BPM  | B Major (1B)             | -8.0 dB    | MED    | 172 - No Lele - Greatman Takit.mp3
+173   | 167   | 129.2 BPM  | C# Minor (12A)           | -10.1 dB   | MED    | 173 - Baba Saanu - Greatman Takit.mp3
+174   | 169   | 129.2 BPM  | A Major (11B)            | -14.8 dB   | MED    | 174 - Standing - Remix - Jaymikee, Greatman Takit.mp3
+175   | 174   | 103.4 BPM  | C Major (12B)            | -15.0 dB   | LOW    | 175 - Because Jesus Christ Is Alive - The Sing Team.mp3
+176   | 178   | 161.5 BPM  | E Major (12B)            | -11.1 dB   | LOW    | 176 - Nasara - Live - Kaestrings.mp3
+177   | 187   | 152.0 BPM  | Bb Major (6B)            | -15.2 dB   | MED    | 177 - Jesus Oh - M I L O, Levixone, Gaise Baba.mp3
+178   | 195   | 99.4 BPM   | E Minor (9A)             | -13.0 dB   | MED    | 178 - We Outside - Gaise Baba.mp3
+179   | 198   | 123.0 BPM  | B Minor (10A)            | -11.7 dB   | MED    | 179 - Biggi Man - Greatman Takit.mp3
+180   | 208   | 117.5 BPM  | Db Major (3B)            | -11.5 dB   | MED    | 180 - All the Praise - Greatman Takit.mp3
+181   | 213   | 123.0 BPM  | F Major (7B)             | -10.6 dB   | MED    | 181 - Holiday - Greatman Takit.mp3
+182   | 228   | 136.0 BPM  | C Major (7A)             | -15.0 dB   | MED    | 182 - Prodigal - Greatman Takit.mp3
+183   | 239   | 143.6 BPM  | C Major (3A)             | -15.0 dB   | MED    | 183 - Jowo - Greatman Takit.mp3
+184   | 026   | 95.7 BPM   | C Minor (5A)             | -12.0 dB   | MED    | 184 - Bo Ta Joor (Feat. Pastor Iren Emmanuel) - Prinx Emmanuel.mp3
+185   | 046   | 112.3 BPM  | C Major (11B)            | -15.0 dB   | MED    | 185 - Bigger - Odogwu - Prinx Emmanuel.mp3
+186   | 069   | 112.3 BPM  | C Major (9B)             | -15.0 dB   | LOW    | 186 - Abba Riddim - Outgun Onkar.mp3
+
+-----------------------------------------------------------------------------------------------------------------------------
+SECTION: [CHAPTER 3: HIGH-PRAISE & JOYFUL CELEBRATION]
+-----------------------------------------------------------------------------------------------------------------------------
+Seq   | Orig# | Beat (BPM) | Tone (Key & Camelot)     | Energy     | Conf   | Track Title & Artist
+-----------------------------------------------------------------------------------------------------------------------------
+187   | 007   | 78.3 BPM   | C Major (8B)             | -11.2 dB   | MED    | 187 - No Longer Bound - Forrest Frank, Hulvey.mp3
+188   | 034   | 80.7 BPM   | Db Major (3B)            | -10.6 dB   | MED    | 188 - The Jesus Generation - Forrest Frank.mp3
+189   | 052   | 99.4 BPM   | C Major (12A)            | -15.0 dB   | MED    | 189 - God's Got My Back - Forrest Frank.mp3
+190   | 094   | 99.4 BPM   | Ab Major (4B)            | -14.2 dB   | LOW    | 190 - If You Believe - Strive to Be, Patch Crowe.mp3
+191   | 109   | 117.5 BPM  | C Major (9B)             | -15.0 dB   | MED    | 191 - UP! - Forrest Frank, Connor Price.mp3
+192   | 114   | 117.5 BPM  | C Major (6B)             | -15.0 dB   | MED    | 192 - OKAY! - Forrest Frank.mp3
+193   | 119   | 143.6 BPM  | F# Minor (11A)           | -9.1 dB    | MED    | 193 - Heaven on This Earth - Forrest Frank, Torey D'shaun.mp3
+194   | 122   | 143.6 BPM  | G Major (9B)             | -11.7 dB   | MED    | 194 - Your Way's Better - Forrest Frank.mp3
+195   | 145   | 143.6 BPM  | Eb Major (5B)            | -9.3 dB    | MED    | 195 - Love Like That - Hulvey, Torey D'shaun, Alex Jean.mp3
+196   | 172   | 123.0 BPM  | Ab Minor (1A)            | -7.8 dB    | MED    | 196 - Jesus Is Alive (Official Audio + Lyrics in Description) - Forrest Frank & Aftrthght.mp3
+197   | 173   | 117.5 BPM  | E Major (12B)            | -10.9 dB   | MED    | 197 - Lemonade - Forrest Frank.mp3
+198   | 184   | 152.0 BPM  | Ab Major (4B)            | -10.2 dB   | MED    | 198 - Good Day - Forrest Frank.mp3
+199   | 209   | 123.0 BPM  | C Major (3B)             | -15.0 dB   | MED    | 199 - Jesus Is Coming Back Soon - Forrest Frank, Josiah Queen.mp3
+200   | 244   | 143.6 BPM  | F# Major (2B)            | -9.8 dB    | MED    | 200 - Praises (Remix) - Elevation Rhythm, Forrest Frank.mp3
+201   | 003   | 78.3 BPM   | F Major (7B)             | -11.1 dB   | LOW    | 201 - No Longer Bound (I'm Free) - Maverick City Music, Chandler Moore.mp3
+202   | 011   | 86.1 BPM   | C Major (11B)            | -15.0 dB   | HIGH   | 202 - You Are Good - Greatman Takit, Nathaniel Bassey.mp3
+203   | 042   | 69.8 BPM   | Eb Minor (2A)            | -12.2 dB   | LOW    | 203 - Revolution (Remix) - Jaymikee.mp3
+204   | 051   | 103.4 BPM  | C Major (11A)            | -15.0 dB   | MED    | 204 - Inferno - Greatman Takit.mp3
+205   | 054   | 103.4 BPM  | C Major (10B)            | -15.0 dB   | LOW    | 205 - Elee - Dr. Pastor Paul Eneche.mp3
+206   | 068   | 112.3 BPM  | C Major (9A)             | -15.0 dB   | MED    | 206 - Energy - Greatman Takit.mp3
+207   | 092   | 99.4 BPM   | C Major (3A)             | -15.0 dB   | LOW    | 207 - Praise Your Name - King Dareal, Festizie, Drakare.mp3
+208   | 116   | 136.0 BPM  | C Major (12A)            | -15.0 dB   | MED    | 208 - Victory - Greatman Takit.mp3
+209   | 118   | 136.0 BPM  | E Major (12B)            | -10.5 dB   | LOW    | 209 - Waymaker ft @brysongraymusic @hannahbarrmusic - Tyson James.mp3
+210   | 123   | 143.6 BPM  | E Minor (9A)             | -10.7 dB   | LOW    | 210 - Daddy Wey Dey Pamper [gbedu Version] - Moses Bliss.mp3
+211   | 124   | 152.0 BPM  | C Major (8B)             | -12.3 dB   | MED    | 211 - Look What You've Done (Rap Refix) - Greatman Takit.mp3
+212   | 130   | 73.8 BPM   | C# Minor (12A)           | -13.0 dB   | LOW    | 212 - Kumama Papa - Drill Remix - Odyssybeatz.mp3
+213   | 141   | 152.0 BPM  | A Minor (8A)             | -11.4 dB   | LOW    | 213 - We Still Believe (Hly Forever) (Feat. One Church Music) - Kb.mp3
+214   | 152   | 129.2 BPM  | Eb Major (5B)            | -10.9 dB   | LOW    | 214 - Chinwe Ike - Resonance.mp3
+215   | 155   | 129.2 BPM  | F Minor (4A)             | -15.5 dB   | LOW    | 215 - Ekele (Thank You) - Holy Drill.mp3
+216   | 180   | 161.5 BPM  | C Major (2B)             | -15.0 dB   | LOW    | 216 - Our God - Phil Wickham.mp3
+217   | 214   | 123.0 BPM  | Bb Major (6B)            | -9.8 dB    | LOW    | 217 - Make Heaven Crowded - Josiah Queen.mp3
+218   | 224   | 136.0 BPM  | C Major (8A)             | -15.0 dB   | MED    | 218 - Commando - Ko'rale, Greatman Takit.mp3
+219   | 256   | 143.6 BPM  | F Major (7B)             | -10.7 dB   | LOW    | 219 - Rejoice Chant - Faith Owolabi.mp3
+220   | 101   | 112.3 BPM  | G Minor (6A)             | -10.6 dB   | LOW    | 220 - No Turning Back Ii (Feat. Lawrence Oyor) - Gaise Baba.mp3
+221   | 192   | 103.4 BPM  | C Major (7B)             | -15.0 dB   | MED    | 221 - Kumama Papa (Refix) - Prinx Emmanuel.mp3
+222   | 196   | 95.7 BPM   | C Major (9A)             | -15.0 dB   | MED    | 222 - Pariwo - Prinx Emmanuel.mp3
+223   | 238   | 89.1 BPM   | C Major (8B)             | -15.0 dB   | HIGH   | 223 - Agalliao - Pastor Emmanuel Iren.mp3
+224   | 245   | 143.6 BPM  | Eb Minor (2A)            | -12.0 dB   | MED    | 224 - Raba Baba Eh - The Gratitude.mp3
+
+-----------------------------------------------------------------------------------------------------------------------------
+SECTION: [CHAPTER 4: PROPHETIC WARFARE & DEEP CHANTS]
+-----------------------------------------------------------------------------------------------------------------------------
+Seq   | Orig# | Beat (BPM) | Tone (Key & Camelot)     | Energy     | Conf   | Track Title & Artist
+-----------------------------------------------------------------------------------------------------------------------------
+225   | 041   | 73.8 BPM   | C Major (3A)             | -15.0 dB   | MED    | 225 - Time for Shifts - Godswill Oyor.mp3
+226   | 043   | 61.5 BPM   | Ab Minor (1A)            | -16.7 dB   | LOW    | 226 - Min. Theophilus Sunday Gospellover.com - Ko Mi Kunede Wé Ojo Mi.mp3
+227   | 071   | 112.3 BPM  | C Major (10B)            | -15.0 dB   | LOW    | 227 - Have I Not Said, Be Bold - Gird Music.mp3
+228   | 078   | 112.3 BPM  | C# Minor (12A)           | -12.1 dB   | LOW    | 228 - Another Measure Oh Holy Ghost Another 1000 Soundwela - Minister Myra.mp3
+229   | 102   | 117.5 BPM  | C Major (6B)             | -15.0 dB   | MED    | 229 - Time for Shift - Godswill Oyor, Dr Paul Enenche, Greatman Takit.mp3
+230   | 146   | 143.6 BPM  | Ab Major (4B)            | -10.3 dB   | MED    | 230 - We Will Be Many - Sound of Salem, Lawrence Oyor, Moses Akoh.mp3
+231   | 168   | 129.2 BPM  | C Major (12B)            | -15.0 dB   | MED    | 231 - Connect - Sound of Salem, Pst. Oche Ogebe.mp3
+232   | 170   | 129.2 BPM  | C Major (11A)            | -15.0 dB   | MED    | 232 - Emmanuel - Sound of Salem.mp3
+233   | 171   | 129.2 BPM  | C Major (11A)            | -15.0 dB   | MED    | 233 - Volume of the Book - Moses Akoh.mp3
+234   | 205   | 123.0 BPM  | C Major (1A)             | -15.0 dB   | MED    | 234 - I Have Escaped - Lawrence Oyor.mp3
+235   | 019   | 89.1 BPM   | C Major (8A)             | -15.0 dB   | LOW    | 235 - Judgement Day Divineflaver.com - Resonance.mp3
+236   | 147   | 136.0 BPM  | C Major (4A)             | -15.0 dB   | MED    | 236 - Baruch Hashem Adonai - Dunsin Oyekan Feat. Theophilus Sunday.mp3
+237   | 164   | 129.2 BPM  | C Major (2A)             | -15.0 dB   | MED    | 237 - Help Us Respond to Your Summon - Theophilus Sunday.mp3
+238   | 227   | 136.0 BPM  | A Minor (8A)             | -11.0 dB   | MED    | 238 - Holy Ghost (Live) - Pastor Emmanuel Iren, Sinach.mp3
+239   | 240   | 143.6 BPM  | Ab Minor (1A)            | -13.0 dB   | MED    | 239 - Jugular Jugular - Lawrence Oyor, Greatman Takit.mp3
+240   | 250   | 184.6 BPM  | F Minor (4A)             | -14.6 dB   | MED    | 240 - Deeper Experience Chant (Spontaneous) - Esther Jonathan.mp3
+241   | 255   | 143.6 BPM  | D Minor (7A)             | -12.4 dB   | MED    | 241 - Deeper Experience Chant - Esther Jonathan, Kaestrings.mp3
+242   | 257   | 129.2 BPM  | Eb Major (5B)            | -12.9 dB   | LOW    | 242 - Sacred Flames (Chants of Activation) - Asher Ruona Feat. Ijeoma Nwachi.mp3
+243   | 260   | 198.8 BPM  | C Major (6A)             | -15.0 dB   | MED    | 243 - Ahhh Ehh Chant - Lawrence Oyor.mp3
+244   | 261   | 117.5 BPM  | A Minor (8A)             | -17.2 dB   | MED    | 244 - Prophetic Chant (Iba Oh) - Faith Owolabi.mp3
+245   | 262   | 234.9 BPM  | C Major (9A)             | -15.0 dB   | MED    | 245 - Take Over - Theophilus Sunday.mp3
+246   | 264   | 99.4 BPM   | C Major (10B)            | -15.0 dB   | MED    | 246 - Intensify Another Measure - Theophilus Sunday.mp3
+247   | 251   | 123.0 BPM  | F Major (7B)             | -10.6 dB   | MED    | 247 - C&B (Cast & Bind) - Greatman Takit.mp3
+248   | 252   | 117.5 BPM  | Ab Minor (1A)            | -12.0 dB   | LOW    | 248 - Tongues of Fire - Abba Feat. Angel Amamchukwu.mp3
+249   | 253   | 136.0 BPM  | Bb Minor (3A)            | -16.0 dB   | MED    | 249 - Alignment Chant (Ep) - Lawrence Oyor.mp3
+250   | 254   | 136.0 BPM  | C Major (9A)             | -15.0 dB   | MED    | 250 - We Say No to You Satan - Theophilus Sunday.mp3
+251   | 258   | 112.3 BPM  | F# Major (2B)            | -17.7 dB   | MED    | 251 - Drum Beats of War 1 - Apostle Edu Udechukwu.mp3
+252   | 263   | 172.3 BPM  | E Minor (9A)             | -13.8 dB   | MED    | 252 - Fire on My Altar (Live) - Pastor Emmanuel Iren.mp3
+
+-----------------------------------------------------------------------------------------------------------------------------
+SECTION: [CHAPTER 5: DEEP SOAK, ATMOSPHERIC PRAYER & REFLECTION]
+-----------------------------------------------------------------------------------------------------------------------------
+Seq   | Orig# | Beat (BPM) | Tone (Key & Camelot)     | Energy     | Conf   | Track Title & Artist
+-----------------------------------------------------------------------------------------------------------------------------
+253   | 009   | 83.4 BPM   | E Minor (9A)             | -15.8 dB   | LOW    | 253 - Solitude - Lightning Traveler.mp3
+254   | 012   | 89.1 BPM   | C Major (12B)            | -11.2 dB   | HIGH   | 254 - Nocturne in E-flat Major, Op. 9 No. 2 (Rain & Piano) - Frédéric Chopin.mp3
+255   | 099   | 112.3 BPM  | C Minor (5A)             | -19.4 dB   | HIGH   | 255 - Chlorine - Hiraoka Kotaro.mp3
+256   | 148   | 136.0 BPM  | C Minor (5A)             | -17.0 dB   | HIGH   | 256 - Idea 22 - Gibran Alcocer.mp3
+257   | 191   | 172.3 BPM  | G Minor (6A)             | -13.6 dB   | HIGH   | 257 - Idea 10 - Gibran Alcocer.mp3
+258   | 211   | 123.0 BPM  | Eb Major (5B)            | -17.3 dB   | HIGH   | 258 - Deep Waters (Instrumental) - S.b.g.mp3
+259   | 237   | 143.6 BPM  | D Minor (7A)             | -15.0 dB   | HIGH   | 259 - Aurora - Maggie1111.mp3
+260   | 274   | 234.9 BPM  | C Minor (5A)             | -20.3 dB   | HIGH   | 260 - Worship Instrumental & Prayer Meditation - Apostle Michael Orokpo.mp3
+261   | 090   | 103.4 BPM  | Eb Minor (2A)            | -10.8 dB   | LOW    | 261 - Adullam - Pius Adeniji.mp3
+262   | 105   | 117.5 BPM  | A Minor (8A)             | -11.3 dB   | HIGH   | 262 - Iba (Feat. Dunsin Oyekan & Dasola Akinbule) - Nathaniel Bassey.mp3
+263   | 153   | 129.2 BPM  | C Major (4B)             | -15.0 dB   | MED    | 263 - He's Here (Ga Shi Nan) - Kaestrings.mp3
+264   | 163   | 129.2 BPM  | C Major (2B)             | -15.0 dB   | MED    | 264 - Rahama (Live) - Kaestrings.mp3
+265   | 177   | 161.5 BPM  | C# Minor (12A)           | -10.5 dB   | MED    | 265 - Tare (Live) - Kaestrings.mp3
+266   | 222   | 112.3 BPM  | A Minor (8A)             | -20.7 dB   | LOW    | 266 - The Glory Song - Dunsin Oyekan.mp3
+267   | 248   | 86.1 BPM   | C Major (1A)             | -15.0 dB   | LOW    | 267 - Living Water - Pius Adeniji, Holy Drill, Lawrence Oyor.mp3
+268   | 249   | 95.7 BPM   | Db Major (3B)            | -14.8 dB   | HIGH   | 268 - Ah Ah Eh Chant (Deep Soaking Instrumental) - Apostle Michael Orokpo.mp3
+269   | 070   | 112.3 BPM  | C Major (10B)            | -15.0 dB   | MED    | 269 - Kill What's Left of Me - Theophilus Sunday.mp3
+270   | 265   | 129.2 BPM  | C Major (10B)            | -15.0 dB   | MED    | 270 - Secret Place Waiting (Spontaneous) - Hillsong Worship.mp3
+271   | 266   | 129.2 BPM  | C Major (11B)            | -15.0 dB   | MED    | 271 - Earthen Vessel - Theophilus Sunday.mp3
+272   | 267   | 117.5 BPM  | F# Minor (11A)           | -11.8 dB   | MED    | 272 - El Elohe Israel (Live) - Chris Delvan Gwamna.mp3
+273   | 269   | 172.3 BPM  | E Major (12B)            | -8.7 dB    | MED    | 273 - Yahweh, You Are Glorious - Chris Delvan Gwamna.mp3
+274   | 270   | 172.3 BPM  | C Major (12B)            | -15.0 dB   | MED    | 274 - Yahweh (Live) - Chris Delvan Gwamna.mp3
+275   | 275   | 129.2 BPM  | Eb Major (5B)            | -14.8 dB   | LOW    | 275 - Where Did My Hunger Go by Minister Theophilus Sunday - Gospel Worship.mp3
+276   | 278   | 112.3 BPM  | C Major (8A)             | -15.0 dB   | MED    | 276 - Send Down the Spirit - Chris Delvan Gwamna.mp3
+277   | 280   | 117.5 BPM  | C Major (9A)             | -15.0 dB   | MED    | 277 - How Can You Walk (Live) - Chris Delvan Gwamna.mp3
+
+-----------------------------------------------------------------------------------------------------------------------------
+SECTION: [REVIEW & INTERLUDES]
+-----------------------------------------------------------------------------------------------------------------------------
+REVIEW| ---   | ---        | ---                      | ---        | QC     | REVIEW_CEREMONIAL - 197 - The National Anthem - The City Choir.mp3
+REVIEW| ---   | ---        | ---                      | ---        | QC     | REVIEW_DUPLICATE-REVIEW - 128 - Sondae_-_Jesus_sometimes_i_CeeNaija.com_.mp3
+REVIEW| ---   | ---        | ---                      | ---        | QC     | REVIEW_DUPLICATE-REVIEW - 166 - Baba Saanu Val9ja.com - Greatman Takit.mp3
+REVIEW| ---   | ---        | ---                      | ---        | QC     | REVIEW_DUPLICATE-REVIEW - 171 - Look What You've Done - Greatman Takit.mp3
+REVIEW| ---   | ---        | ---                      | ---        | QC     | REVIEW_METADATA-REVIEW - 210 - Deep Waters Trendyhiphop.com - S.b.g.mp3
+REVIEW| ---   | ---        | ---                      | ---        | QC     | REVIEW_METADATA-REVIEW - 242 - Sssspotify.com Downloader 1773523264615.mp3
+REVIEW| ---   | ---        | ---                      | ---        | QC     | REVIEW_SPOKEN-INTERLUDE - 181 - Kingdom Mindset (Voice Note) - Spiritual Exhortation.mp3
+REVIEW| ---   | ---        | ---                      | ---        | QC     | REVIEW_SPOKEN-INTERLUDE - 271 - The Secret to Spiritual Growth and Power - Apostle Michael Orokpo.mp3

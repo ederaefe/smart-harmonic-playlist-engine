@@ -1,0 +1,17 @@
+# Audio binaries and archives (GitHub 100MB limit & copyright safe)
+*.mp3
+*.zip
+_duplicates_backup/
+Songs/
+.sync_staging/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Intermediate scan inventories
+clean_metadata.json
+metadata_inventory.json
+playlist_sequence.json
